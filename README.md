@@ -1,14 +1,14 @@
-#To run the app
+# To run the app
 
 Link: https://collab-edit-426.web.app/
 
-##Front end
+## Front end
 commands are done on command prompt other devices may differ
 ensure node is installed.
 `cd my-app`
 `npm start`
 
-Backend
+## Backend
 commands done on wsl other devices may differ
 ensure python is installed.
 `cd flask`
