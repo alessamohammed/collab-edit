@@ -15,6 +15,6 @@ ensure python is installed.
 `source venv/bin/activate`
 `python3 -m flask run`
 
-we edited firepad library to the encription
+we edited firepad library to do the encryption
 to check it see firepad.min.js on
 my-app/node_modules/firepad/dist/
